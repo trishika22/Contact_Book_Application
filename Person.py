@@ -12,7 +12,7 @@ class Person:
         return self.phone
     
     def set_phone(self,phone):
-        selfphone = phone
+        self.phone = phone
     
     def get_email(self):
         return self.email
