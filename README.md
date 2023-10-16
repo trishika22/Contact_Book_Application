@@ -1,4 +1,4 @@
-![image](https://github.com/trishika22/Contact_Book_Application/assets/81105231/4ad66534-f50b-46d0-86a2-491347ce67a8)![image](https://github.com/trishika22/Contact_Book_Application/assets/81105231/819c4ea0-c8fe-4378-8ac2-9ad4c3a6e517)# Contact Book Application
+# Contact Book Application
 This is a simple command line based contact book application in Python programming language. 
 
 A contact book holds a collection of contacts, where every contact will store the following information about a person: Name, Phone Number, Email, Address and ZIP. This program can perform (1) insertion of a new contact (2) deletion of an existing contact (3) update on an existing contact (4) search for an existing contact (5) display all contacts present in the contact book.
